@@ -174,7 +174,7 @@ Attendance is mandatory and essential for success in this course. You can either
     - Functions
     - Loops
 - Demo of some R codes and Python codes
-    - R API
+    - R API 
     - Python API
     - Bloomberg bot
 - Homework Assignment V
