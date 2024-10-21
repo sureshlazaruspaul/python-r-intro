@@ -13,7 +13,7 @@ R AND PYTHON PROGRAMMING FOR MANAGERS
 **INSTRUCTOR INFORMATION**
 
 Suresh L. Paul\
-PhD (ABD) Finance, M.S., B.Engg.\
+CPhil Finance, M.S., B.Engg.\
 Visiting Assistant Professor of Economics, BW\
 Founder & Research Scientist, Algorithm Basics LLC\
 Consultant, Precision Compounds Inc\
