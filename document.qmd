@@ -1,0 +1,432 @@
+---
+title: "Python & R for Managers"
+subtitle: "Syllabus Discussion"
+author: "**Suresh Paul**, C.Phil, M.S., B.Engg</br>*Founder & Research Scientist, Algorithm Basics LLC*</br>Assistant Professor of Finance, Economics & Analytics, Baldwin Wallace University"
+format:
+  revealjs: 
+    slide-number: c/t
+    #transition: slide
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    logo: img/algoBasics2.png
+    #footer: "Prof Suresh Paul - Algorithm Basics LLC"
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+# Agenda {#agenda}
+
+:::: {style="font-size: 1em; text-align: left"}
+::: incremental
+1)  General info
+    -   Instructor
+    -   Course
+    -   Testing requirements
+    -   Basic roadmap
+2)  Basics and Introduction
+3)  Utility
+4)  How to do well in this course?
+5)  Tools
+:::
+::::
+
+------------------------------------------------------------------------
+
+#  {#instructor-info background-color="white"}
+
+::: noincremental
+[General info</br>]{style="font-size:3.5em; text-align: center"}[Instructor]{style="color:blue;font-size:3.5em;"}
+:::
+
+------------------------------------------------------------------------
+
+## Instructor PFP
+
+::::: columns
+::: {.column width="50%"}
+![](img/pfp.png)
+:::
+
+::: {.column width="50%"}
+![](img/pfp1.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Instructor Profile {#instructor-profile}
+
+:::: {style="font-size: 1em; text-align: left"}
+::: nonincremental
+-   *Name*: Suresh L. Paul (<https://www.linkedin.com/in/sureshlpaul/>)
+-   *Teaching interests*: economics, analytics
+-   *Research interests*: economics (applied)
+-   *Specific research topics*:
+    -   Labor economics.--- gender wage/participation gap
+    -   Health economics.--- opioids, disease transmissions
+    -   Corporate Governance.--- CEO pay and related studies
+:::
+::::
+
+------------------------------------------------------------------------
+
+## Instructor Profile (cont'd.) {#instructor-profile-contd}
+
+:::: {style="font-size: 1em; text-align: left"}
+::: nonincremental
+-   *Qualification/Degrees Earned*:
+    -   CPhil Finance, **Binghamton University**
+    -   MS Industrial Engineering, **University of Cincinnati**
+    -   BS Mechanical Engineering, **CEG, Anna University, India**
+-   *Currently*:
+    -   Founder & Research Scientist, **Algorithm Basics LLC**
+    -   Consultant, **Precision Compounds Inc**
+    -   Assistant Professor of Finance, Economics & Analytics, **Baldwin Wallace University**
+:::
+::::
+
+------------------------------------------------------------------------
+
+#  {#course-info background-color="white"}
+
+::: noincremental
+[General info</br>]{style="font-size:3.5em; text-align: center"}[Course]{style="color:blue;font-size:3.5em;"}
+:::
+
+------------------------------------------------------------------------
+
+## Course info {#course-info-0}
+
+:::: {style="font-size: 1em; text-align: left"}
+::: nonincremental
+-   **BUS622**
+-   **DEVELOP TOOLS IN BUSINESS ANALYTICS**
+    -   **R AND PYTHON PROGRAMMING FOR MANAGERS**
+:::
+::::
+
+------------------------------------------------------------------------
+
+## Course info {#course-info-1}
+
+:::: {style="font-size: 1em; text-align: left"}
+::: nonincremental
+-   **Working knowledge** in
+    -   *R*
+        -   CRUD
+        -   Visualization
+    -   *Python*
+        -   CRUD
+        -   Applications
+:::
+::::
+
+------------------------------------------------------------------------
+
+## Course info (cont'd.) {#course-info-2}
+
+::::::: {style="font-size: 0.85em; text-align: left"}
+:::::: nonincremental
+::::: columns
+::: {.column width="60%"}
+-   **Working knowledge** in
+    -   *Large data*
+        -   Stock price, ohlcv data
+        -   Firm Accounting data
+        -   NBA data
+        -   Credit risk data
+        -   CEO Compensation data
+        -   Opioid prescription-payment data
+        -   Nursing homes data
+:::
+
+::: {.column width="40%"}
+</br></br></br> ![](img/big-data-graphic.png)
+:::
+:::::
+::::::
+:::::::
+
+------------------------------------------------------------------------
+
+## Meeting info {#meeting-info}
+
+:::: {style="font-size: 1em; text-align: left"}
+::: nonincremental
+-   *Meeting room*: Bloomberg Research Center
+-   *Timing*: Mondays 6:15PM - 9:00PM
+-   *Office hours*: by appointment only
+-   *Textbook*: None.
+    -   all codes and materials will be made available via Canvas.
+-   *Computing requirements*: Lab.
+    -   appointment with IT for personal computing needs.
+:::
+::::
+
+------------------------------------------------------------------------
+
+#  {#testing-info background-color="white"}
+
+::: noincremental
+[General info</br>]{style="font-size:3.5em; text-align: center"}[testing requirements]{style="color:blue;font-size:3.5em;"}
+:::
+
+------------------------------------------------------------------------
+
+## Testing Requirements {#testing-requirements}
+
+</br>
+
+::: {style="font-size: 0.85em; text-align: center"}
+| Items                                                    | Weight |
+|:---------------------------------------------------------|-------:|
+| [*Homework*]{style="color: blue;"}                       |    70% |
+| [*Project*]{style="color: darkgreen;"}                   |        |
+| \- [*Report*]{style="color: darkgreen;"}                 |    20% |
+| [*Class Participation, Attendance*]{style="color: red;"} |    10% |
+:::
+
+------------------------------------------------------------------------
+
+#  {#roadmap-info background-color="white"}
+
+::: noincremental
+[General info</br>]{style="font-size:3.5em; text-align: center"}[roadmap]{style="color:blue;font-size:3.5em;"}
+:::
+
+------------------------------------------------------------------------
+
+## Roadmap {#roadmap}
+
+**R programming** (3 to 4 weeks)
+
+</br>
+
+:::::::: {style="font-size: 0.85em; text-align: center"}
+::::::: columns
+:::: {.column width="50%"}
+::: nonincremental
+-   *Dplyr*
+    -   CRUD
+-   *Misc*
+    -   Merging/Subsetting
+    -   API request
+    -   Treatment of missing data
+:::
+::::
+
+:::: {.column width="50%"}
+::: nonincremental
+-   *Plotting*
+    -   ggplot2
+    -   other
+:::
+::::
+:::::::
+::::::::
+
+------------------------------------------------------------------------
+
+## Roadmap (cont'd.) {#roadmap-contd}
+
+**Python programming** (1 to 2 weeks)
+
+:::::::: {style="font-size: 0.85em; text-align: center"}
+::::::: columns
+:::: {.column width="50%"}
+::: nonincremental
+-   *numpy* and *pandas*
+    -   CRUD
+    -   merging/subsetting
+:::
+::::
+
+:::: {.column width="50%"}
+::: nonincremental
+-   *misc topics*
+:::
+::::
+:::::::
+::::::::
+
+------------------------------------------------------------------------
+
+## Roadmap (cont'd.) {#roadmap-contd-1}
+
+**Project** (2 weeks)
+
+:::: {style="font-size: 0.85em; text-align: left"}
+::: nonincremental
+-   *Review*
+:::
+::::
+
+</br>
+
+**Demo**
+
+:::: {style="font-size: 0.85em; text-align: left"}
+::: nonincremental
+-   *python bot*
+:::
+::::
+
+------------------------------------------------------------------------
+
+#  {#basics-intro background-color="white"}
+
+::: noincremental
+[Basics</br>and</br>Introduction]{style="font-size:3.5em; text-align: center"}
+:::
+
+------------------------------------------------------------------------
+
+## What is Data Literacy {#what-data-literacy}
+
+:::: {style="font-size: 1em; text-align: left"}
+::: nonincremental
+-   ability to read, understand, and utilize data in different ways
+    -   Different types of data
+    -   Common data sources
+    -   Types of analysis
+    -   Data integrity
+:::
+::::
+
+------------------------------------------------------------------------
+
+## Why Data Science Programming? {#why-data-science}
+
+::: noincremental
+![](img/dataLit.jpg)
+:::
+
+::: notes
+Source: https://www.tableau.com/why-tableau/data-literacy
+:::
+
+------------------------------------------------------------------------
+
+## Current Issues {#why-data-science1}
+
+::: noincremental
+![](img/big-ideas-2023.png)
+:::
+
+::: notes
+Source: https://www.ark-invest.com/big-ideas-2023/artificial-intelligence
+:::
+
+------------------------------------------------------------------------
+
+## Code assist {#why-data-science2}
+
+::: noincremental
+![](img/time-to-code.png)
+:::
+
+::: notes
+Source: https://www.ark-invest.com/big-ideas-2023/artificial-intelligence
+:::
+
+------------------------------------------------------------------------
+
+## R features {#r-features}
+
+::: noincremental
+-   Statistical Software
+    -   Stata, SAS, SPSS, Excel$^{*}$
+-   Best Plotting Interface
+    -   Tableau
+-   Has analytical and computational capabilities beyond regular relational DBMS
+    -   Relational: SQL (e.g., PostgreSQL)
+    -   Non-relational: NoSQL (e.g., Apache)
+-   Free
+:::
+
+------------------------------------------------------------------------
+
+## Python features {#python-features}
+
+::: noincremental
+-   General Purpose Software
+    -   C/C++, Java
+-   Robust Interface
+    -   Web app front-ends
+    -   Machine Learning
+    -   Neural Networks
+    -   Data Analysis
+-   Free
+:::
+
+------------------------------------------------------------------------
+
+## Payscale - R {#payscale-r}
+
+::: noincremental
+![](img/RPay.png) [Source: https://www1.salary.com/Salaries-for-r-programmer-with-a-Masters-Degree-or-MBA]{style="font-size:0.5em; text-align: center"}
+:::
+
+::: notes
+https://www1.salary.com/Salaries-for-r-programmer-with-a-Masters-Degree-or-MBA
+:::
+
+------------------------------------------------------------------------
+
+## Payscale - Python {#payscale-python}
+
+::: noincremental
+![](img/PythonPay.png) [Source: https://www1.salary.com/Salaries-for-entry-level-python-developer-with-a-Masters-Degree-or-MBA]{style="font-size:0.5em; text-align: center"}
+:::
+
+::: notes
+https://www1.salary.com/Salaries-for-entry-level-python-developer-with-a-Masters-Degree-or-MBA
+:::
+
+------------------------------------------------------------------------
+
+#  {#how-to-do-well}
+
+::: noincremental
+[How to do well</br> in this course?]{style="font-size:2.5em; text-align: center"}
+:::
+
+------------------------------------------------------------------------
+
+## How to do well? {#how-to-do-well1}
+
+:::: {style="font-size: 0.85em; text-align: left"}
+::: nonincremental
+1)  Attend class *regularly*.
+2)  Put individual effort into homework assignments.
+3)  Contribute to your group project.
+4)  *Ask questions in class*, especially if you don't understand something.
+5)  *DON'T PROCRASTINATE!*
+:::
+::::
+
+------------------------------------------------------------------------
+
+#  {#tools}
+
+::: noincremental
+[tools</br> used in this course?]{style="font-size:2.5em; text-align: center"}
+:::
+
+------------------------------------------------------------------------
+
+## Tools {#tools1}
+
+:::: {style="font-size: 0.85em; text-align: left"}
+::: incremental
+-   Canvas
+    -   Lecture slides, HW submissions
+-   Computing
+    -   Bloomberg Lab
+-   Chatbots
+:::
+::::
+
+------------------------------------------------------------------------
