@@ -1,8 +1,7 @@
-# python-r-intro
-
-## Introduction to R & Python Programming
-
-This course introduces students to various tools in business analytics development and reporting. Students are introduced to the basics of programming with R and Python to develop a working knowledge of how to acquire, manage, and visualize data.
+---
+title: "Syllabus"
+author: "Suresh L. Paul"
+---
 
 
 **BUS622: DEVELOP TOOLS IN BUSINESS ANALYTICS**[^*]
