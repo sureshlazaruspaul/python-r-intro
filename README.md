@@ -16,7 +16,6 @@ Suresh L. Paul\
 CPhil Finance, M.S. Industrial Engineering, B.E. Mechanical Engineering\
 Visiting Assistant Professor of Economics, BW\
 Founder & Research Scientist, Algorithm Basics LLC\
-Consultant, Precision Compounds Inc\
 [spaul@bw.edu](mailto:spaul@bw.edu)\
 [linkedin.com/in/sureshlpaul](https://www.linkedin.com/in/sureshlpaul/)     
 
@@ -175,6 +174,8 @@ Attendance is mandatory and essential for success in this course. You can either
     - Functions
     - Loops
 - Demo of some R codes and Python codes
+    - R API
+    - Python API
     - Bloomberg bot
 - Homework Assignment V
 
